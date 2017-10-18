@@ -1,0 +1,115 @@
+    1  git-- version
+    2  git--version
+    3  git init
+    4  git
+    5  ls-a
+    6  cat>sample.txt
+    7  git init
+    8  git init
+    9  git init
+   10  ls
+   11  git init
+   12  git init
+   13  ls
+   14  ls-la
+   15  git init.
+   16  init git.
+   17  'git --help'.
+   18  git --help' .
+   19  add git
+   20  ls
+   21  ls -a
+   22  cd .git/
+   23  mkdir souji
+   24  ls
+   25  cd souji/
+   26  ls -a
+   27  pwd
+   28  git init
+   29  cat>balu
+   30  cat>sat
+   31  rm sat
+   32  ls
+   33  git status
+   34  git add balu
+   35  git status
+   36  git commit -m "file added"
+   37  git config --global user.email "souji@gmail.com"
+   38  git config --global user.name "soujanya"
+   39  git commit -m "file added"
+   40  git config
+   41  git --config
+   42  git config --global
+   43  cat config
+   44  cat config --list
+   45  git config --list
+   46  git config --l
+   47  git config --e
+   48  git config --edit
+   49  git log
+   50  git show commit 837f40b54c81f0
+   51  cat>>balu
+   52  git add .
+   53  git checkout balu
+   54  git status -s
+   55  git status
+   56  git reset HEAD balu
+   57  echo hello world
+   58  echo thingaridana
+   59  prinf"hello word"
+   60  prin"hello word"
+   61  print"hello word"
+   62  printf"hello word"
+   63  git status -s
+   64  git commit -m "file added"
+   65  git add .
+   66  git commit -m "file added"
+   67  git status -s
+   68  ls
+   69  git status
+   70  git commit -am "file added"
+   71  git status
+   72  git log
+   73  git branch soujy
+   74  git checkout soujy
+   75  ls
+   76  git merge soujy
+   77  ls
+   78  git config --global user.name
+   79  git config --global user.email
+   80  git push -u origin master
+   81  ls .git /hooks
+   82  ls .git/hooks
+   83  git add -A
+   84  ls
+   85  cat HEAD
+   86  git merge contact
+   87  git push -u origin souji
+   88  git status
+   89  git log online
+   90  echo "# soujygit" >> README.md
+   91  git init
+   92  git add README.md 
+   93  git commit -m "add commit"
+   94  git remote add origin https://github.com/soujubalu/soujygit.git
+   95  git push -u origin master
+   96  ls
+   97  git push -u origin master
+   98  git push -u origin master
+   99  git checkout master
+  100  ls
+  101  git commit -m "add commit"
+  102  git remote add origin https://github.com/soujubalu/soujygit.git
+  103  git push -u origin master
+  104  git remote add origin master https://github.com/soujubalu/soujygit.git
+  105  git push -u origin master
+  106  gi pull -u origin master
+  107  gi pull -u master
+  108  git pull -u origin master
+  109  git pull -u origin
+  110  git pull -u master
+  111  git pull -u origin master https://github.com/soujubalu/soujygit.git
+  112  git pull -u https://github.com/soujubalu/soujygit.git
+  113  git pull https://github.com/soujubalu/soujygit.git
+  114  ls
+  115  history>soujigitpractice.txt
